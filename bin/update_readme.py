@@ -2,7 +2,7 @@
 
 import requests
 
-JENKINS_URL = 'http://systemview.ddns.net:8080'
+JENKINS_URL = 'https://dev.systemviewinc.com'
 JENKINS_API = '/api/json?tree=jobs[name,jobs[name]]'
 
 JOBS_TO_MONITOR=['build', 'integration']

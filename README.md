@@ -16,29 +16,29 @@ This repository is mainly used to report issue and provide feedback.
 #### Build
 | Job | Status |
 | --- | --- |
-| Driver Rpmsg | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=build/driver_rpmsg)](http://systemview.ddns.net:8080/job/build/job/driver_rpmsg) |
-| Driver Vsi | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=build/driver_vsi)](http://systemview.ddns.net:8080/job/build/job/driver_vsi) |
-| Linux-Xlnx | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=build/linux-xlnx)](http://systemview.ddns.net:8080/job/build/job/linux-xlnx) |
-| Vsi | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=build/vsi)](http://systemview.ddns.net:8080/job/build/job/vsi) |
+| Driver Rpmsg | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=build/driver_rpmsg)](https://dev.systemviewinc.com/job/build/job/driver_rpmsg) |
+| Driver Vsi | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=build/driver_vsi)](https://dev.systemviewinc.com/job/build/job/driver_vsi) |
+| Linux-Xlnx | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=build/linux-xlnx)](https://dev.systemviewinc.com/job/build/job/linux-xlnx) |
+| Vsi | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=build/vsi)](https://dev.systemviewinc.com/job/build/job/vsi) |
 
 #### Integration
 | Job | Status |
 | --- | --- |
-| R5 | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/R5)](http://systemview.ddns.net:8080/job/integration/job/R5) |
-| Blocking Read | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/blocking_read)](http://systemview.ddns.net:8080/job/integration/job/blocking_read) |
-| Cxx Api | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/cxx_api)](http://systemview.ddns.net:8080/job/integration/job/cxx_api) |
-| Cxx Api Device Automatic Passthrough | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/cxx_api_device_automatic_passthrough)](http://systemview.ddns.net:8080/job/integration/job/cxx_api_device_automatic_passthrough) |
-| Cxx Api Device Hw | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/cxx_api_device_hw)](http://systemview.ddns.net:8080/job/integration/job/cxx_api_device_hw) |
-| Cxx Api Device Passthrough | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/cxx_api_device_passthrough)](http://systemview.ddns.net:8080/job/integration/job/cxx_api_device_passthrough) |
-| Cxx Api Multi Sw | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/cxx_api_multi_sw)](http://systemview.ddns.net:8080/job/integration/job/cxx_api_multi_sw) |
-| Cxx Api Passthrough | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/cxx_api_passthrough)](http://systemview.ddns.net:8080/job/integration/job/cxx_api_passthrough) |
-| Data Transfer | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/data_transfer)](http://systemview.ddns.net:8080/job/integration/job/data_transfer) |
-| Java Api Device Passthrough | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/java_api_device_passthrough)](http://systemview.ddns.net:8080/job/integration/job/java_api_device_passthrough) |
-| Java Arm | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/java_arm)](http://systemview.ddns.net:8080/job/integration/job/java_arm) |
-| Python Api Device Passthrough | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/python_api_device_passthrough)](http://systemview.ddns.net:8080/job/integration/job/python_api_device_passthrough) |
-| Python Device | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/python_device)](http://systemview.ddns.net:8080/job/integration/job/python_device) |
-| Python Regression | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/python_regression)](http://systemview.ddns.net:8080/job/integration/job/python_regression) |
-| Simulation | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/simulation)](http://systemview.ddns.net:8080/job/integration/job/simulation) |
-| Sort | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/sort)](http://systemview.ddns.net:8080/job/integration/job/sort) |
-| Sort Arm | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/sort_arm)](http://systemview.ddns.net:8080/job/integration/job/sort_arm) |
-| Univariate Linear Regression | [![Build Status](http://systemview.ddns.net:8080/buildStatus/icon?job=integration/univariate_linear_regression)](http://systemview.ddns.net:8080/job/integration/job/univariate_linear_regression) |
+| R5 | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/R5)](https://dev.systemviewinc.com/job/integration/job/R5) |
+| Blocking Read | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/blocking_read)](https://dev.systemviewinc.com/job/integration/job/blocking_read) |
+| Cxx Api | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api)](https://dev.systemviewinc.com/job/integration/job/cxx_api) |
+| Cxx Api Device Automatic Passthrough | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api_device_automatic_passthrough)](https://dev.systemviewinc.com/job/integration/job/cxx_api_device_automatic_passthrough) |
+| Cxx Api Device Hw | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api_device_hw)](https://dev.systemviewinc.com/job/integration/job/cxx_api_device_hw) |
+| Cxx Api Device Passthrough | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api_device_passthrough)](https://dev.systemviewinc.com/job/integration/job/cxx_api_device_passthrough) |
+| Cxx Api Multi Sw | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api_multi_sw)](https://dev.systemviewinc.com/job/integration/job/cxx_api_multi_sw) |
+| Cxx Api Passthrough | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api_passthrough)](https://dev.systemviewinc.com/job/integration/job/cxx_api_passthrough) |
+| Data Transfer | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/data_transfer)](https://dev.systemviewinc.com/job/integration/job/data_transfer) |
+| Java Api Device Passthrough | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/java_api_device_passthrough)](https://dev.systemviewinc.com/job/integration/job/java_api_device_passthrough) |
+| Java Arm | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/java_arm)](https://dev.systemviewinc.com/job/integration/job/java_arm) |
+| Python Api Device Passthrough | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/python_api_device_passthrough)](https://dev.systemviewinc.com/job/integration/job/python_api_device_passthrough) |
+| Python Device | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/python_device)](https://dev.systemviewinc.com/job/integration/job/python_device) |
+| Python Regression | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/python_regression)](https://dev.systemviewinc.com/job/integration/job/python_regression) |
+| Simulation | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/simulation)](https://dev.systemviewinc.com/job/integration/job/simulation) |
+| Sort | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/sort)](https://dev.systemviewinc.com/job/integration/job/sort) |
+| Sort Arm | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/sort_arm)](https://dev.systemviewinc.com/job/integration/job/sort_arm) |
+| Univariate Linear Regression | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/univariate_linear_regression)](https://dev.systemviewinc.com/job/integration/job/univariate_linear_regression) |
