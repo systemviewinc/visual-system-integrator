@@ -25,6 +25,7 @@ This repository is mainly used to report issue and provide feedback.
 | Job | Status |
 | --- | --- |
 | R5 | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/R5)](https://dev.systemviewinc.com/job/integration/job/R5) |
+| Sobel Algorithm | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/Sobel_Algorithm)](https://dev.systemviewinc.com/job/integration/job/Sobel_Algorithm) |
 | Blocking Read | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/blocking_read)](https://dev.systemviewinc.com/job/integration/job/blocking_read) |
 | Cxx Api | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api)](https://dev.systemviewinc.com/job/integration/job/cxx_api) |
 | Cxx Api Device Automatic Passthrough | [![Build Status](https://dev.systemviewinc.com/buildStatus/icon?job=integration/cxx_api_device_automatic_passthrough)](https://dev.systemviewinc.com/job/integration/job/cxx_api_device_automatic_passthrough) |
